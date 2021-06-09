@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beejoos
+- 👋 Hi, I’m @bejo-s
 - 👀 I’m interested in making good apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
