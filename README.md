@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bejo-s
-- 👀 I’m interested in making good apps
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mrbebga@gmail.com
+- 👋 Hi, I’m @bejo-s !
+- 👀 I’m interested in making helping apps.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on my project of creating software company.
+- 📫 How to reach me by email, mrbebga@gmail.com, or by Twitter @_B_E_J_O.
 
 <!---
 beejoos/beejoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
