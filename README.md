@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bejo-s !
 - 👀 I’m interested in making helping apps.
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on my project of creating software company.
+- 💞️ I’m looking to collaborate on many projects of my software company.
 - 📫 How to reach me by email, mrbebga@gmail.com, or by Twitter @_B_E_J_O.
 
 <!---
